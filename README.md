@@ -1,4 +1,4 @@
-# Investment Tracker (v1.0) 📈
+# Price Trend Analyzer (v1.0) 📈
 
 A custom Python script built from scratch to analyze stock market data using core programming fundamentals (loops, lists, and functions) without external libraries. Developed as a practice project after completing the first 4 parts of the University of Helsinki Python MOOC.
 
